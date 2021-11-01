@@ -1,0 +1,9 @@
+{
+  "version": 2,
+  "projects": {
+    "react-flow": "apps/react-flow",
+    "react-flow-e2e": "apps/react-flow-e2e",
+    "x6": "apps/x6",
+    "x6-e2e": "apps/x6-e2e"
+  }
+}
