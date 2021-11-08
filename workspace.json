@@ -1,6 +1,8 @@
 {
   "version": 2,
   "projects": {
+    "img": "apps/img",
+    "img-e2e": "apps/img-e2e",
     "react-flow": "apps/react-flow",
     "react-flow-e2e": "apps/react-flow-e2e",
     "x6": "apps/x6",

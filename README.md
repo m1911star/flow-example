@@ -1,8 +1,15 @@
 
-
 # FlowExample
+
 ## X6
-![](./screenshots/x6.png)
+
+![x6](./screenshots/x6.png)
 
 ## react-flow
-![](./screenshots/react-flow.png)
+
+![react-flow](./screenshots/react-flow.png)
+
+## image load VS canvas render Unit8clampedArray
+
+![compare](./screenshots/compare.png)
+

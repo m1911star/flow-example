@@ -7,6 +7,7 @@
     "start:x6": "nx serve x6",
     "x6": "nx serve x6 --port=4200",
     "react-flow": "nx serve react-flow --port=4201",
+    "start:img": "nx serve img --port=4203",
     "generate": "nx generate",
     "build": "nx build",
     "build:x6": "nx build x6",
